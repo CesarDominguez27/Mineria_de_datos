@@ -6,4 +6,4 @@
 
 [Tarea1_Python](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Tarea1_Python%20(1).ipynb)
 
-[Ejercicio?Limpieza](https://github.com/ReginaMb/Data_Mining/blob/main/Ej_Limpieza_1.ipynb)
+[Ejercicio_Limpieza](https://github.com/ReginaMb/Data_Mining/blob/main/Ej_Limpieza_1.ipynb)
