@@ -11,3 +11,5 @@
 [Avance1_PIA](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Avance1_PIA_Equipo1.ipynb)
 
 [Presentación Técnicas de Minería de Datos](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Presentación_Regresión%20Lineal_N.01.pdf)
+
+[Notebook Regresión Lineal](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Regresion_Lineal_Equipo1.ipynb)
