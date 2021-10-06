@@ -15,3 +15,5 @@
 [Notebook Regresión Lineal](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Regresion_Lineal_Equipo1.ipynb)
 
 [Práctica Visualización de Datos](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Visualizacion_Equipo1.ipynb)
+
+[Avance 2 PIA](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Avance_II_PIA_Equipo1.ipynb)
