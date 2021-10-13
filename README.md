@@ -17,3 +17,5 @@
 [Práctica Visualización de Datos](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Visualizacion_Equipo1.ipynb)
 
 [Avance 2 PIA](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Avance_II_PIA_Equipo1.ipynb)
+
+[Eécnicas de Minería](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Ejercicios_Tecnicas_Equipo1.ipynb)
